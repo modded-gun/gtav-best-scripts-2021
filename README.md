@@ -1,7 +1,5 @@
                       GTAV ⚡ SCRIPT 
-💀 FranCangel Scripts: https://github.com/modded-gun/gtav-best-scripts-2021/releases/tag/script-francangel 
-
-💀 Jaro666    Scripts: https://github.com/modded-gun/gtav-best-scripts-2021/releases/tag/script-byjaro
+💀 Listado scripts: https://github.com/modded-gun/gtav-best-scripts-2021/releases/tag/listado-script0
 
                       GTAV ⚡ MODMENUS (CRACKEDOS)
 💀 Listado menús: https://github.com/modded-gun/gtav-best-scripts-2021/releases/tag/modmenus-free
